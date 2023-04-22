@@ -1,0 +1,2 @@
+# Dockerfileからビルドするときのコマンド
+docker build -t centos7-sysstat:10.1.5 .
